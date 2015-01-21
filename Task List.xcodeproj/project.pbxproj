@@ -14,6 +14,7 @@
 		CCF8615C1A70295A00AC7B68 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF8615B1A70295A00AC7B68 /* Images.xcassets */; };
 		CCF8615F1A70295A00AC7B68 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CCF8615D1A70295A00AC7B68 /* LaunchScreen.xib */; };
 		CCF8616B1A70295A00AC7B68 /* Task_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF8616A1A70295A00AC7B68 /* Task_ListTests.swift */; };
+		CCF861751A7029F800AC7B68 /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF861741A7029F800AC7B68 /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		CCF861641A70295A00AC7B68 /* Task ListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Task ListTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF861691A70295A00AC7B68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCF8616A1A70295A00AC7B68 /* Task_ListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task_ListTests.swift; sourceTree = "<group>"; };
+		CCF861741A7029F800AC7B68 /* TaskManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				CCF8615B1A70295A00AC7B68 /* Images.xcassets */,
 				CCF8615D1A70295A00AC7B68 /* LaunchScreen.xib */,
 				CCF861501A70295A00AC7B68 /* Supporting Files */,
+				CCF861741A7029F800AC7B68 /* TaskManager.swift */,
 			);
 			path = "Task List";
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				CCF861571A70295A00AC7B68 /* SecondViewController.swift in Sources */,
 				CCF861531A70295A00AC7B68 /* AppDelegate.swift in Sources */,
+				CCF861751A7029F800AC7B68 /* TaskManager.swift in Sources */,
 				CCF861551A70295A00AC7B68 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
