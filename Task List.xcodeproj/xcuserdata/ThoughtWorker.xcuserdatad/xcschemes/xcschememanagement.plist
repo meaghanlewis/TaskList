@@ -4,8 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Task List-cal.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Task List.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
@@ -18,6 +27,11 @@
 			<true/>
 		</dict>
 		<key>CCF861631A70295A00AC7B68</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CCF861761A70473400AC7B68</key>
 		<dict>
 			<key>primary</key>
 			<true/>
